@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters.command import Command
 from aiohttp import web
 
-BOT_TOKEN = "8984766153:AAHd7Pyvgw6dU1sFExdYOUR_TOKEN_HERE"
+BOT_TOKEN = "8984766153:AAGKVpwZkPeMYmByrY69o-gBFO3ZE6vaJzE"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
