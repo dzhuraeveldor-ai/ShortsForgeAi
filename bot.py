@@ -15,4 +15,6 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+    import os
+    os.environ['PORT'] = '10000'
     asyncio.run(main())
