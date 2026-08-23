@@ -2,7 +2,7 @@ import httpx
 import logging
 from typing import Optional, Dict, Any
 
-from bot.config import bot_settings
+from config import bot_settings
 
 logger = logging.getLogger(__name__)
 
